@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ITSUR Notas</string>
+    <string name="ver_tareas_pendientes">Ver: Tareas Pendientes</string>
+    <string name="ver_tareas_completadas">Ver: Tareas Completadas</string>
+    <string name="agregar_tarea_nota">Agregar Tarea/Nota</string>
+    <string name="tipo_de_elemento">Tipo de elemento:</string>
+    <string name="nota">Nota</string>
+    <string name="tarea">Tarea</string>
+    <string name="notas">Notas</string>
+    <string name="tareas">Tareaa</string>
+    <string name="titulo">Título</string>
+    <string name="contenido_de_la_nota">Contenido de la Nota</string>
+    <string name="fecha_de_vencimiento">Fecha de Vencimiento</string>
+    <string name="seleccionar_fecha">Seleccionar fecha</string>
+    <string name="hora_de_vencimiento">Hora de Vencimiento</string>
+    <string name="seleccionar_hora">Seleccionar hora</string>
+    <string name="descripcion">Descripción</string>
+    <string name="guardar">Guardar</string>
+    <string name="tomar_foto">Tomar foto</string>
+    <string name="tomar_video">Tomar video</string>
+    <string name="seleccionar_archivo">Seleccionar archivo</string>
+    <string name="editar_tarea_nota">Editar Tarea/Nota</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="detalles">Detalles</string>
+    <string name="fecha">Fecha</string>
+    <string name="contenido">Contenido</string>
+    <string name="elemento_no_encontrado">Elemento no encontrado</string>
+    <string name="imagen_de_ejemplo">Imagen de ejemplo</string>
+    <string name="seleccionar_multimedia">Seleccionar multimedia</string>
+    <string name="buscar">Buscar</string>
+    <string name="filtrar_por">Filtrar por</string>
+    <string name="fecha_de_creacion">Fecha de creación</string>
+    <string name="notificaciones">Notificaciones</string>
+    <string name="editar_notificaciones">Editar Notificaciones</string>
+    <string name="ver_notificaciones">Ver Notificaciones</string>
+    <string name="edit_not_text">Hola, estas en la sección de Editar Notificaciones</string>
+    <string name="not_text">Hola, estas en la sección de Agregar Notificaciones</string>
+    <string name="simple_not_text">Estas son las notificaciones asociadas a esta tarea:</string>
+    <string name="recordatorio">Recordatorio</string>
+    <string name="alarma">Alarma</string>
+    <string name="mensaje_tarea"> - El tiempo se acaba Bobesponja - ¡Ponte las pilas con esa tarea!</string>
+    <string name="noti_permiso">Es necesario otorgar el permiso de notificaciones para continuar.</string>
+</resources>
